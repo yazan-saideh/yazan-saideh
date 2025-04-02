@@ -23,7 +23,7 @@ A comprehensive exploration of computer architecture from the ground up, where I
 
 ## 🛠️ Skills:
 - **Languages & Frameworks**: Python, C#, C, C++, Java, Unity, Flask
-- **Tools**: Git, Blender, Visual Studio, Adobe Suite
+- **Tools**: Git, Blender, Visual Studio, Adobe Suite, FL Studio
 - **Concepts**: Game Design, Algorithm Development, 3D Modeling, Web Development, System Architecture
 
 ## 📚 Education:
