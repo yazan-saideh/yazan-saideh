@@ -31,5 +31,5 @@ A comprehensive exploration of computer architecture from the ground up, where I
 - **Degree of Honor**, Rothberg International School
 
 ## 🌐 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/yazan-saideh/)
+- [LinkedIn](https://www.linkedin.com/in/yazan-saideh-26ba982ba/)
 - [Email](mailto:yazan.saideh11@gmail.com)
