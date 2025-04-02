@@ -22,7 +22,7 @@ A comprehensive exploration of computer architecture from the ground up, where I
 - **Physics & Electronics**: My curiosity about how things work extends into real-world applications, which is why I integrate physics into my projects for a realistic gaming experience.
 
 ## 🛠️ Skills:
-- **Languages & Frameworks**: Python, C#, Java, Unity, Flask
+- **Languages & Frameworks**: Python, C#, C, C++, Java, Unity, Flask
 - **Tools**: Git, Blender, Visual Studio, Adobe Suite
 - **Concepts**: Game Design, Algorithm Development, 3D Modeling, Web Development, System Architecture
 
