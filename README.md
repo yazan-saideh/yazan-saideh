@@ -1,7 +1,8 @@
 # Yazan Saideh - Computer Science Student | Aspiring Software Engineer | Passionate about Software, AI
 
-**Computer Science student at The Hebrew University of Jerusalem with a passion for technology, innovation, and problem-solving.  
-I enjoy exploring the intersection of theory and practice by working on projects that span computer systems, artificial intelligence, and software development.**
+*I'm a Computer Science student passionate about building reliable, scalable, and creative software solutions. I have hands-on experience developing projects across different domains, including web development, game development, and machine learning.
+I enjoy exploring new technologies, solving real-world problems, and collaborating with others to transform ideas into working systems. Whether it's backend systems, AI models, or interactive games, I’m excited by the challenge of learning and creating across different fields.
+I'm committed to writing clean, maintainable code, continuously improving my technical skills, and growing into a versatile software engineer. Currently seeking internships and entry-level opportunities where I can contribute meaningfully and broaden my experience across diverse areas of technology.**
 
 ---
 
