@@ -53,9 +53,6 @@ A collection of projects written in C, focusing on low-level programming, data s
 
 - **B.Sc. in Computer Science**  
   The Hebrew University of Jerusalem  
-- **Degree of Honor**  
-  Rothberg International School
-
 ---
 
 ## 🌐 Connect with Me
