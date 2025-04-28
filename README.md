@@ -18,7 +18,7 @@ Built a complete computer system from scratch: starting from logic gates, progre
 - Virtual Machines
 
 ### 🧠 [Python Object Detection Project](https://github.com/yazan-saideh/Python_Project)
-Developed object detection models using Python, showcasing machine learning and computer vision skills. Includes custom model training and application integration.
+Developed Facial Expresion and LandMarks detection models using Python, showcasing machine learning and computer vision skills. Includes custom model training and application integration.
 
 - Machine Learning
 - Computer Vision (OpenCV, TensorFlow/PyTorch)
