@@ -1,36 +1,62 @@
-# Yazan Saideh - Computer Science Enthusiast | Game Developer | Problem Solver
+# Yazan Saideh - Software Developer | Systems Thinker | Problem Solver
 
-Hey there! 👋 I’m Yazan, a Computer Science student at The Hebrew University of Jerusalem. I’m passionate about creating, coding, and exploring new technologies. Whether it's designing immersive games, diving into complex algorithms, or experimenting with web technologies, I’m always up for a challenge.
+**Computer Science student at The Hebrew University of Jerusalem with a passion for technology, innovation, and problem-solving.  
+I enjoy exploring the intersection of theory and practice by working on projects that span computer systems, artificial intelligence, and software development.**
 
-## 🚀 Featured Projects:
+---
 
-### 🎮 [Portals]()
-A puzzle game that plays with portals, gravity, and spatial thinking to challenge your mind.
+## 🚀 Selected Projects
 
-### 🛸 [Flying Cube]()
-Guide a flying cube through an ever-changing environment of obstacles, testing your reflexes and precision.
+### 💻 [Nand2Tetris](https://github.com/yazan-saideh/Nand2Tetris)
+Built a complete computer system from scratch: starting from logic gates, progressing through CPU design, and culminating in a working operating system and high-level programming language.
 
-### ⚔️ [The Mighty Dungeon]()
-A dungeon crawler with tactical challenges that demand strategy, quick thinking, and puzzle-solving.
+- Computer Architecture
+- Operating Systems Concepts
+- Virtual Machines
 
-### 🖥️ [Nand2Tetris](https://github.com/yazan-saideh/Nand2Tetris)
-A comprehensive exploration of computer architecture from the ground up, where I build a complete computer system, layer by layer.
+### 🧠 [Python Object Detection Project](https://github.com/yazan-saideh/Python_Project)
+Developed object detection models using Python, showcasing machine learning and computer vision skills. Includes custom model training and application integration.
 
-## 🌟 What I Love to Work On:
-- **Game Development**: I craft engaging, innovative, and sometimes quirky game experiences. From pixel-perfect mechanics to deep strategic gameplay, I love making games that are both fun and challenging.
-- **Problem Solving**: Whether it's a complex algorithm or a tricky bug, I'm always excited by the challenge of finding a solution. My passion for coding drives me to explore diverse fields like artificial intelligence and computer systems.
-- **Physics & Electronics**: My curiosity about how things work extends into real-world applications, which is why I integrate physics into my projects for a realistic gaming experience.
+- Machine Learning
+- Computer Vision (OpenCV, TensorFlow/PyTorch)
+- Image Processing
 
-## 🛠️ Skills:
-- **Languages & Frameworks**: Python, C#, C, C++, Java, Unity, Flask
-- **Tools**: Git, Blender, Visual Studio, Adobe Suite, FL Studio
-- **Concepts**: Game Design, Algorithm Development, 3D Modeling, Web Development, System Architecture
+### 🎮 [Unity Game Development Journey](https://github.com/yazan-saideh/Unity_Game_Development_journey)
+Built multiple projects using Unity, implementing 2D and 3D gameplay mechanics, realistic physics, AI behavior, and refined level design.
 
-## 📚 Education:
-- **B.Sc. in Computer Science**, Hebrew University of Jerusalem
-- **Degree of Honor**, Rothberg International School
+- Unity Game Engine (C#)
+- Physics Programming
+- Game Design Patterns
 
-## 🌐 Let's Connect!
+### ⚙️ [Systems Programming Projects](https://github.com/yazan-saideh/C-Projects)
+A collection of projects written in C, focusing on low-level programming, data structures, and algorithm design.
+
+- Systems Programming (C)
+- Algorithm Development
+- Data Structures
+
+---
+
+## 🛠️ Skills
+
+- **Programming Languages**: Python, C, C++, C#, Java
+- **Technologies & Frameworks**: Unity, Flask, OpenCV, TensorFlow
+- **Tools**: Git, GitHub, Blender (3D modeling), Visual Studio, Adobe Creative Suite
+- **Expertise Areas**: Software Engineering, Computer Systems, Machine Learning, Game Development, Algorithms
+
+---
+
+## 📚 Education
+
+- **B.Sc. in Computer Science**  
+  The Hebrew University of Jerusalem  
+- **Degree of Honor**  
+  Rothberg International School
+
+---
+
+## 🌐 Connect with Me
+
 - [LinkedIn](https://www.linkedin.com/in/yazan-saideh-26ba982ba/)
 - [Email](mailto:yazan.saideh11@gmail.com)
 - [Instagram](https://www.instagram.com/yazandev/)
