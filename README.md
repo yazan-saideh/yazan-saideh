@@ -1,4 +1,4 @@
-# Yazan Saideh - Software Developer | Systems Thinker | Problem Solver
+# Yazan Saideh - Computer Science Student | Aspiring Software Engineer | Passionate about Software, AI
 
 **Computer Science student at The Hebrew University of Jerusalem with a passion for technology, innovation, and problem-solving.  
 I enjoy exploring the intersection of theory and practice by working on projects that span computer systems, artificial intelligence, and software development.**
