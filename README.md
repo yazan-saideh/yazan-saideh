@@ -1,4 +1,4 @@
-# Yazan Saideh - Computer Science Student | Aspiring Software Engineer | Passionate about Software, AI
+# Yazan Saideh - Computer Science Student @ HUJI | Passionate about Software, AI
 
 *I'm a Computer Science student passionate about building reliable, scalable, and creative software solutions. I have hands-on experience developing projects across different domains, including web development, game development, and machine learning.
 
